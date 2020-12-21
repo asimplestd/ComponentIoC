@@ -1,0 +1,20 @@
+{
+  "name": "com.asimple.componentioc",
+  "version": "0.8.1",
+  "displayName": "ComponentIoC",
+  "description": "IoC container based on Unity components",
+  "unity": "2019.1",
+  "unityRelease": "0b5",
+  "dependencies": {
+ },
+ "keywords": [
+    "ioc",
+    "container",
+    "inversion of control"
+  ],
+  "author": {
+    "name": "Asimple",
+    "email": "unity@example.com",
+    "url": "https://www.unity3d.com"
+  }
+}
