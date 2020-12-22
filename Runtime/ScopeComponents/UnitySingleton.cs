@@ -1,4 +1,4 @@
-﻿namespace Simple.ComponentIoC.ScopeComponents
+﻿namespace Asimple.ComponentIoC.ScopeComponents
 {
     public abstract class UnitySingleton<T> : SceneSingleton<T> where T : UnitySingleton<T>
     {

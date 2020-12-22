@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace Simple.ComponentIoC.Internal
+namespace Asimple.ComponentIoC.Internal
 {
     internal class ContextRegistrationBuilder : IContextRegistration, IContextRegistrationBuilder
     {

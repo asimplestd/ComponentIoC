@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace Simple.ComponentIoC.ScopeComponents
+namespace Asimple.ComponentIoC.ScopeComponents
 {
     public abstract class ScriptableObjectSingleton<T> : ScriptableObject
         where T : ScriptableObjectSingleton<T>

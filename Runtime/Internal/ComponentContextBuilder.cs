@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace Simple.ComponentIoC.Internal
+namespace Asimple.ComponentIoC.Internal
 {
     internal class ComponentContextBuilder : IComponentContextBuilder
     {

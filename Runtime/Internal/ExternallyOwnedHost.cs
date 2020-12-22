@@ -1,7 +1,7 @@
-﻿using Simple.ComponentIoC.ScopeComponents;
+﻿using Asimple.ComponentIoC.ScopeComponents;
 using UnityEngine;
 
-namespace Simple.ComponentIoC.Internal
+namespace Asimple.ComponentIoC.Internal
 {
     internal class ExternallyOwnedHost : UnitySingleton<ExternallyOwnedHost>
     {

@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using UnityEngine;
 
-namespace Simple.ComponentIoC.Internal
+namespace Asimple.ComponentIoC.Internal
 {
     internal class ComponentContext : MonoBehaviour, IComponentContext
     {

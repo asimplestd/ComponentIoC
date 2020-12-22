@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using UnityEngine.Assertions;
 
-namespace Simple.ComponentIoC.ScopeComponents
+namespace Asimple.ComponentIoC.ScopeComponents
 {
     public class SceneSingleton<T> : MonoBehaviour where T : SceneSingleton<T>
     {

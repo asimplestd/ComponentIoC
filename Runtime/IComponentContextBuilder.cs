@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Simple.ComponentIoC
+namespace Asimple.ComponentIoC
 {
     public interface IComponentContextBuilder
     {
