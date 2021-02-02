@@ -1,20 +1,31 @@
 {
   "name": "com.asimple.componentioc",
-  "version": "0.8.1",
+  "version": "0.8.4",
   "displayName": "ComponentIoC",
   "description": "IoC container based on Unity components",
   "unity": "2019.1",
   "unityRelease": "0b5",
-  "dependencies": {
- },
- "keywords": [
+  "dependencies": {},
+  "samples": [
+    {
+      "displayName": "GetStarted",
+      "description": "Super-duper quick start:",
+      "path": "Samples/GetStarted"
+    },
+    {
+      "displayName": "FooFeature",
+      "description": "Advanced usage with explanation",
+      "path": "Samples/FooFeature"
+    }
+  ],
+  "keywords": [
     "ioc",
     "container",
     "inversion of control"
   ],
   "author": {
-    "name": "Asimple",
+    "name": "asimple",
     "email": "unity@example.com",
-    "url": "https://www.unity3d.com"
+    "url": "https://github.com/asimplestd/ComponentIoC"
   }
 }
